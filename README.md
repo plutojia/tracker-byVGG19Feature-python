@@ -1,2 +1,2 @@
 # tracker-byVGG19Feature-python
-A implement of object tracker by python and tensorflow
+An object tracking algorithm based on VGG feature and correlation flitering
